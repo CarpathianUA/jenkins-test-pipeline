@@ -1,4 +1,4 @@
-package carpathian.com;
+package com.carpathian.app;
 
 /**
  * Hello world!

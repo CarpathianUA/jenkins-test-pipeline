@@ -1,4 +1,4 @@
-package carpathian.com;
+package com.carpathian.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
